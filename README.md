@@ -38,10 +38,11 @@ Our charging network is designed as a scalable system. Every unit features digit
 *Note: All models are interconnected via the central AI-driven energy demand management system.*
 ## 🖼️ Gallery
 
-![Basic Hub](hub-basic.jpg)
-![Scooter Hub](hub-scooter.jpg)
-![E-Bike Hub](hub-ebike.jpg)
-![Accessibility Hub](hub-wheelchair.jpg)
+![Basic Hub](Basic%20Hub.jpg)
+![Scooter Hub](Scooter%20Hub.jpg)
+![E-Bike%20Hub](E-Bike%20Hub.jpg)
+![Accessibility%20Hub](Accessibility%20Hub.jpg)
+
 ---
 ## 👤 Author
 **Joaquín Olivieri Díaz**  
