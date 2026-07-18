@@ -25,6 +25,17 @@ Our infrastructure functions as a multi-revenue ecosystem, ensuring long-term su
 - [ ] Integration with urban mapping APIs.
 - [ ] Charging management system prototyping.
 - [ ] Pilot program for advertising revenue integration.
+## 🏗️ Product Ecosystem: Modular Urban Hubs
+Our charging network is designed as a scalable system. Every unit features digital advertising screens, ensuring business model consistency across all models.
+
+| Model | Primary Function | Additional Features |
+| :--- | :--- | :--- |
+| **Basic Hub** | Mobile Charging | Advertising Display |
+| **Scooter Hub** | E-Scooter Fast Charging | Mobile Charging, Advertising Display |
+| **E-Bike Hub** | E-Bike Fast Charging | Mobile Charging, Advertising Display |
+| **Accessibility Hub** | E-Wheelchair Charging | Mobile Charging, Advertising Display |
+
+*Note: All models are interconnected via the central AI-driven energy demand management system.*
 ---
 ## 👤 Author
 **Joaquín Olivieri Díaz**  
