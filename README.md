@@ -43,6 +43,20 @@ Our charging network is designed as a scalable system. Every unit features digit
 ![E-Bike%20Hub](E-Bike%20Hub.jpg)
 ![Accessibility%20Hub](Accessibility%20Hub.jpg)
 
+### Innovation Ecosystem - JOOLDI
+*Smart infrastructure system and scalable urban deployment.*
+
+| Project | Main Function | Role / Status |
+| :--- | :--- | :--- |
+| **JOOLDI (Charging Node)** | Technical Infrastructure | 🟢 Operational: Modular charging with built-in AI for energy management. |
+| **App Ecosystem** | Mapping & AI Integration | 🔵 In Integration: Smart mapping with real-time updates. |
+| **Neon Flash Hub** | Physical Space | 🔵 Scalable: Urban hubs powered by validated JOOLDI technology. |
+| **Factoría Innovation Labs** | R&D Engine | 🟡 Validation: Strategy and institutional development. |
+| **Coworkinder** | Social Fabric | 🟡 Validation: Talent matchmaking and community building. |
+| **CINEMA LAB** | Smart Activation | 🟡 Validation: Interactive engagement and data collection. |
+
+---
+> **Strategic Note:** The **JOOLDI** charging technology acts as the foundational component (green), allowing for the agile expansion into **Neon Flash Hubs** (blue) as a scalable deployment, supported by already validated technical infrastructure.
 ---
 ## 👤 Author
 **Joaquín Olivieri Díaz**  
