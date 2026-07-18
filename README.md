@@ -36,6 +36,12 @@ Our charging network is designed as a scalable system. Every unit features digit
 | **Accessibility Hub** | E-Wheelchair Charging | Mobile Charging, Advertising Display |
 
 *Note: All models are interconnected via the central AI-driven energy demand management system.*
+## 🖼️ Gallery
+
+![Basic Hub](hub-basic.jpg)
+![Scooter Hub](hub-scooter.jpg)
+![E-Bike Hub](hub-ebike.jpg)
+![Accessibility Hub](hub-wheelchair.jpg)
 ---
 ## 👤 Author
 **Joaquín Olivieri Díaz**  
