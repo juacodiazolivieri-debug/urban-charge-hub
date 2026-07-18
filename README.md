@@ -55,6 +55,23 @@ Our charging network is designed as a scalable system. Every unit features digit
 | **Coworkinder** | Social Fabric | 🟡 Validation: Talent matchmaking and community building. |
 | **CINEMA LAB** | Smart Activation | 🟡 Validation: Interactive engagement and data collection. |
 
+# JOOLDI Innovation Ecosystem
+We are building a holistic urban infrastructure where energy, data, and human talent converge. Our system starts with modular charging and scales to smart urban hubs and community development.
+### 🏛 The Foundation (Root)
+*   **[JOOLDI Charging Nodes](https://github.com/juacodia/centro-de-recarga-urbana)**: The core infrastructure. Modular hardware with integrated AI energy management.
+---
+### 🌿 Ecosystem Branches
+*Integrated services built upon our core charging network:*
+
+| Branch | Service Type | Integration Level |
+| :--- | :--- | :--- |
+| **JOOLDI App** | Mapping, AI & User Profile | Core Integration |
+| **Neon Flash Hub** | Physical Workspaces & Charging | Hardware + Spatial |
+| **Coworkinder** | Talent Matchmaking | Social Integration |
+| **CINEMA LAB** | Events & Corporate Activation | Strategic Activation |
+| **Factoría Innovation Labs** | R&D & Business Development | Institutional Motor |
+---
+> **The JOOLDI Logic:** Every physical node (JOOLDI) acts as a gateway for the App, a home for Coworkinder's community, and a stage for CINEMA LAB's activations. All managed under the strategic umbrella of Factoría Innovation Labs.
 ---
 > **Strategic Note:** The **JOOLDI** charging technology acts as the foundational component (green), allowing for the agile expansion into **Neon Flash Hubs** (blue) as a scalable deployment, supported by already validated technical infrastructure.
 ---
