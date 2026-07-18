@@ -1,6 +1,5 @@
 # Urban Charge Hub
-**Innovation...**.
-​Innovation in sustainable electric mobility for Montevideo.
+​**Innovation...** in sustainable electric mobility for Montevideo.
 ​Project Description
 ​This project aims to transform underutilized urban infrastructure (such as former security booths) into fast-charging hubs for personal electric mobility vehicles (scooters, electric bicycles). Our goal is to decentralize the charging network, facilitating the adoption of clean transportation in the city.
 ​Problem
