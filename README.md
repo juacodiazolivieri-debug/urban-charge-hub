@@ -20,27 +20,8 @@ We use Artificial Intelligence (Gemini API) to optimize the location and managem
 ## 🗺️ Roadmap (Next Steps)
 - [ ] Energy consumption data modeling.
 - [ ] Integration with urban mapping APIs.
-- [ ] Charging management system prototyping.
+- [ ] Charging management system prototypi
 
----
-## 👤 Author
-**Joaquín Olivieri Díaz**  
-*Developed for the XPRIZE challenge.*
-* **Sustainable Mobility Ecosystem**: Modular infrastructure adapted for urban needs.
-
-## 🗺️ Roadmap (Next Steps)
-- [ ] Energy consumption data modeling.
-- [ ] Integration with urban mapping APIs.
-- [ ] Charging management system prototyping.
-
----
-## 👤 Author
-**Joaquín Olivieri Díaz**  
-*Developed for the XPRIZE challenge.*
-​🪽 Roadmap (Next Steps)
-​[ ] Energy consumption data modeling.
-​[ ] Integration with urban mapping APIs.
-​[ ] Charging management system prototyping.
 ​🫟 Author
 ​Joaquín Olivieri Díaz
 Developed for the XPRIZE challenge. 
