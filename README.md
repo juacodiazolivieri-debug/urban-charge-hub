@@ -22,6 +22,7 @@ We use Artificial Intelligence (Gemini API) to optimize the location and managem
 - [ ] Integration with urban mapping APIs.
 - [ ] Charging management system prototypi
 
-​🫟 Author
-​Joaquín Olivieri Díaz
-Developed for the XPRIZE challenge. 
+## 👤 Author
+
+**Joaquín Olivieri Díaz**  
+*Developed for the XPRIZE challenge.*
