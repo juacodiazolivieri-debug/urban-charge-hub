@@ -1,4 +1,4 @@
-# Urban Charge Hub - Montevideo
+# JOOLDI - Urban Charge Hub - Montevideo
 ## 🚀 Innovation in Sustainable Electric Mobility
 We are transforming underutilized urban infrastructure (such as former security booths) into fast-charging hubs for personal electric mobility vehicles (scooters, electric bicycles) and assistive devices (electric wheelchairs).
 ## 🏗️ The Problem
