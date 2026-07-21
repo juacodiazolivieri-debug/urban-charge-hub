@@ -1,6 +1,6 @@
 # JOOLDI - Urban Charge Hub - Montevideo
 ## 🚀 Innovation in Sustainable Electric Mobility
-We are transforming underutilized urban infrastructure (such as former security booths) into fast-charging hubs for personal electric mobility vehicles (scooters, electric bicycles) and assistive devices (electric wheelchairs).
+JOOLDI Nodes are brand-new, custom-engineered metal structures and smart modular stations designed from the ground up for urban micromobility, universal accessibility, and real-time health and safety monitoring.
 ## 🏗️ The Problem
 The lack of strategic and accessible charging points is a critical barrier to the adoption of clean transportation and inclusive mobility in dense urban environments.
 ## ⚡ The Solution
